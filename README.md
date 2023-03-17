@@ -3,7 +3,7 @@
 </p>
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/AnonymousX1025"><img alt="Website" src="https://img.shields.io/badge/𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦-blue"></a>
+  <a href="https://github.com/AnonymousX1025"><img alt="Website" src="https://img.shields.io/badge/𝙷𝙼𝚂𓃠-blue"></a>
  
 [![Stars](https://img.shields.io/github/stars/AnonymousX1025/StringGenBot?style=social)](https://github.com/AnonymousX1025/StringGenBot/stargazers)
   [![Forks](https://img.shields.io/github/forks/AnonymousX1025/StringGenBot?style=social)](https://github.com/AnonymousX1025/StringGenBot/fork)
@@ -31,7 +31,7 @@
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/StringFatherBot)
+  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/sessionhmsbot)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
