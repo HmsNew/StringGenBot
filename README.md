@@ -3,10 +3,10 @@
 </p>
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/AnonymousX1025"><img alt="Website" src="https://img.shields.io/badge/𝙷𝙼𝚂𓃠-blue"></a>
+  <a href="https://github.com/HmsNew/StringGenBot"><img alt="Website" src="https://img.shields.io/badge/𝙷𝙼𝚂𓃠-blue"></a>
  
-[![Stars](https://img.shields.io/github/stars/AnonymousX1025/StringGenBot?style=social)](https://github.com/AnonymousX1025/StringGenBot/stargazers)
-  [![Forks](https://img.shields.io/github/forks/AnonymousX1025/StringGenBot?style=social)](https://github.com/AnonymousX1025/StringGenBot/fork)
+[![Stars](https://img.shields.io/github/stars/HmsNew/StringGenBot?style=social)](https://github.com/HmsNew/StringGenBot/stargazers)
+  [![Forks](https://img.shields.io/github/forks/HmsNew/StringGenBot?style=social)](https://github.com/HmsNew/StringGenBot/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
@@ -25,7 +25,7 @@
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AnonymousX1025/StringGenBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/HmsNew/StringGenBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
@@ -46,7 +46,7 @@ Atleast Give A Star and Fork The Repo 🖤
 
 
 ## 💖 ᴄʀᴇᴅɪᴛs
-- » [𝙷𝙼𝚂𓃠](https://github.com/AnonymousX1025)
-- » [Shivang](https://github.com/ShivangKakkar)
-- » [Dan Tès](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
-- » [Lonami](https://github.com/LonamiWebs) for [Telethon](https://github.com/LonamiWebs/Telethon)
+- » [𝙷𝙼𝚂𓃠](https://github.com/HmsNew)
+- » [𝙷𝙼𝚂𓃠telegram](https://t.me/hms_01)
+- » [◜ ِّّ𝙼َٰ𝙰َِ𝚈 َ𝙱ُِ𝙾ِ𝚃َٰ𝚂َ 𓃠◞](https://t.me/botatiiii) for [Pyrogram](https://github.com/pyrogram/pyrogram)
+- » [𝙷𝙼𝚂𝙵𝙰𝙸𝙻𝚂](https://t.me/hmsfails) for [Telethon](https://github.com/LonamiWebs/Telethon)
